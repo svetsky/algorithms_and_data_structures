@@ -1,4 +1,5 @@
 # Лабораторная работа №6. Алгоритм Рабина-Карпа.
+# https://rutube.ru/video/9b6b215ecffce613e76aeaf96c8c9f0b/
 
 def count_hash(T, x, k):
     h = 0
