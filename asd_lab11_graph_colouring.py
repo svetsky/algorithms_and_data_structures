@@ -1,5 +1,7 @@
-# Лабораторная работа №11. Расскраска графа.
-# https://publications.hse.ru/pubs/share/folder/0rhqzr8ukk/133671897.pdf
+"""
+Лабораторная работа №11. Расскраска графа.
+https://publications.hse.ru/pubs/share/folder/0rhqzr8ukk/133671897.pdf
+"""
 
 def graph_colouring(V: list[int], E: list[set]) -> dict:
     A = build_adjacency_matrix(V, E)
